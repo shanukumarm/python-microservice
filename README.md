@@ -15,5 +15,5 @@ Steps:
 
 Next Plan:
 - Extend to Terraform script to create EKS Cluster
-- Deployment using FarGate
+- Deployment using Fargate
 - Setup Ingress Controller and Ingress
