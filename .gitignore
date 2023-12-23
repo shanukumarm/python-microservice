@@ -1,2 +1,2 @@
 microservice
-src/__pycache__
+.dockerignore
